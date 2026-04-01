@@ -1,5 +1,5 @@
 ---
-name: "Angular"
+name: "angular"
 displayName: "Angular"
 description: "Complete Angular development power with best practices, code patterns, and MCP tools for building modern Angular applications. Covers components, signals, forms, routing, DI, testing, accessibility, styling, and CLI tooling."
 keywords: ["angular", "angular cli", "ng", "component", "signal", "directive", "pipe", "rxjs", "ngrx", "zoneless"]
@@ -135,5 +135,12 @@ The Angular CLI MCP server provides these tools:
 
 ---
 
-**Package:** `@angular/cli`
-**MCP Server:** angular-cli
+## License and support
+
+This power is provided under the MIT license.
+
+This power integrates with the Angular CLI MCP Server (MIT).
+
+- Support: [youssefathalla@gmail.com](mailto:youssefathalla@gmail.com)
+
+We handle your information as described in the [Kiro Privacy Notice](https://kiro.dev/privacy).
