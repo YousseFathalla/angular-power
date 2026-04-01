@@ -75,7 +75,7 @@ powers/angular/
 
 - [Angular CLI MCP Server](https://angular.dev/tools/mcp) — official Angular MCP server by the Angular team
 - [Angular Developer Skills](https://github.com/angular/skills) — official Angular coding guidelines
-- [Angular 21](https://angular.dev) — latest Angular best practices and APIs
+- [Angular](https://angular.dev) — latest Angular best practices and APIs
 
 ## Author
 
