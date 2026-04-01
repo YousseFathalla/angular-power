@@ -2,7 +2,7 @@
 
 A [Kiro Power](https://kiro.dev/docs/powers/) that gives your AI agent comprehensive Angular development guidance combined with the official Angular CLI MCP server.
 
-Built on the **official Angular CLI MCP server** and **Angular's official developer skills**, aligned with **Angular 21** best practices.
+Built on the **official Angular CLI MCP server** and **Angular's official developer skills**, aligned with **Angular Latest Version** best practices.
 
 ## What it does
 
