@@ -1,0 +1,11 @@
+# Kiro
+.kiro/
+skills-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
